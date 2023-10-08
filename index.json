@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tachiyomi: Astra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.astrascans",
+    "apk": "tachiyomi-en.astrascans-v1.4.1-release.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astra Scans",
+        "lang": "en",
+        "id": "8151430323343538599",
+        "baseUrl": "https://astrascans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  }
+]
